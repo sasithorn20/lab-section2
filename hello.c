@@ -1,2 +1,6 @@
 #include<stdio.h>
-int main()
+int main(){
+	printf("Hello");
+	printf("Hello2");
+	printf("Hello3");
+}
